@@ -1,6 +1,9 @@
-<a href="https://github.com/hakan-akgul">
-  <img width="100%" height="300px" style="object-fit:cover" src="./mountain.jpg">
-</p>
+<br>
+<br>
+<p align="center">
+ <img width="500" src="https://media2.giphy.com/media/3NtY188QaxDdC/giphy.gif?cid=790b7611186ce7874ed73c3587e437cbfa6eb40ee1a2e7d2&rid=giphy.gif&ct=g">  
+  </p>
+<br>
 
 # Hi 🖖🏻
 
