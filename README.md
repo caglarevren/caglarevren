@@ -22,6 +22,8 @@
 &nbsp;&nbsp;
 [![website](./img/github-light.svg)](https://github.com/caglarevren#gh-light-mode-only)
 [![website](./img/github-dark.svg)](https://github.com/caglarevren#gh-dark-mode-only)
+[![website](./img/mail-light.png)](mailto:caglarevren93@gmail.com#gh-light-mode-only)
+[![website](./img/mail-dark.png)](mailto:caglarevren93@gmail.com#gh-dark-mode-only)
 
 ### Skills
 
