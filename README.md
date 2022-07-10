@@ -5,17 +5,23 @@
   </p>
 <br>
 
-# Hi 🖖🏻
+# Hi, I'm Çağlar. Frontend Developer. 🖖🏻
 
-I'm Çağlar... Front-end developer...
-I develop and manage front-end architectures for web apps.
+- I enjoy being a part of a team.
+- I worked on various large projects, with lots of developers. JavaScript and their frameworks is my specialty.
+- I like to follow new technologies and contributing these technologies to the project.
+- I'm also an amateur musician.
 
-### Contact
+### Connect with me:
 
-[![Visits Badge](https://badges.pufler.dev/visits/hakan-akgul/hakan-akgul?style=for-the-badge)](https://github.com/hakan-akgul)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/hakan-akgül/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail.hakanakgul@gmail.com)
-[![Github](https://img.shields.io/badge/GITHUB-383C4A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hakan-akgul)
+[![website](./img/globe-light.svg)](https://www.caglarevren.com/)
+[![website](./img/globe-dark.svg)](https://www.caglarevren.com/)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/caglarevren/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/caglarevren/)
+&nbsp;&nbsp;
+[![website](./img/github-light.svg)](https://github.com/caglarevren)
+[![website](./img/github-dark.svg)](https://github.com/caglarevren)
 
 ### Skills
 
