@@ -14,14 +14,14 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://www.caglarevren.com/)
-[![website](./img/globe-dark.svg)](https://www.caglarevren.com/)
+[![website](./img/globe-light.svg)](https://www.caglarevren.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://www.caglarevren.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/caglarevren/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/caglarevren/)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/caglarevren#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/caglarevren#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/github-light.svg)](https://github.com/caglarevren)
-[![website](./img/github-dark.svg)](https://github.com/caglarevren)
+[![website](./img/github-light.svg)](https://github.com/caglarevren#gh-light-mode-only)
+[![website](./img/github-dark.svg)](https://github.com/caglarevren#gh-dark-mode-only)
 
 ### Skills
 
