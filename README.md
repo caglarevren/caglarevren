@@ -14,9 +14,6 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://www.caglarevren.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://www.caglarevren.com#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/caglarevren#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/caglarevren#gh-dark-mode-only)
 &nbsp;&nbsp;
